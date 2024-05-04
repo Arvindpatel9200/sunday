@@ -1,0 +1,15 @@
+prob...01   write a pythone program to display a user entered name folllwed by good ofternoon using inpute() fuction.
+
+prob...02    write a program to fill in a letter template given below with name and date
+      letter= ''' Dear <!NAME!>,
+                 you are selected!
+                   <!DATE!>'''
+
+prob..03 write a program to detect double space in a string..
+0
+prob..04 replace the double space from problem 03 with single space.. 
+
+prob..05 write a problem to formate the following letter using escape squence character
+        letter =story = '''In the world,a country is wonderful thats is bharat. 
+        in the bharat a state thats called the heart of bharat is madhya pradesh '''
+

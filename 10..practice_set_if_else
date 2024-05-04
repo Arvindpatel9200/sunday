@@ -1,0 +1,10 @@
+Q.......01  write a pogramm to find of four  number entered by user .
+Q.......02  write a program to find out whether a student is pass or fail,
+            if it requred total 40% and at least 33%in each subject to pass .
+            Assume 3 subjects and take marks as an input form the user... 
+Q......03   A span comment is defined as a text containing following keywords:
+            "make a lot of money",  "by now", "suscrib this" ,"click this", write a program  to detect these span...
+Q......04    write a program to find whether a given username contain less then 10 characters or not.
+Q......05    write a program which find wherther a given  name is present in a list or not ..
+Q......06    write a program to calculate the grade of a student from his marks from the following scheme..
+Q......07    Write a program to find out whether a given post is tallking about "arvind or not 
