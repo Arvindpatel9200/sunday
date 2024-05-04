@@ -1,0 +1,22 @@
+Q....01    WRITE A PROGRAM TO PRINT MULTIPLICATION TABLE OF A GIVEN NUMBER USING FOR LOOP .......
+Q....02    WRITE A PROGRAM TO GREET ALL THE PERSON NAMES STORED IN A LIST L1 AND WHICH STARTS WITH S
+           L1=["AVI",'SHIVU','SHIWANI', 'RAHUL']
+Q....03    ATTEMP PROBLEM NO 1 USING WHILE LOOP..
+Q....04    WRITE THE PROGRAM TO FIND WHETHER A given number is prime or not.
+Q....05    write a program to FIND a sum of n netural number using while loop..
+Q.....06   write a program to calculate the factorial of a given number usin for loop..
+
+7. write a program to frint the following star pattern.
+               *
+             * * *
+           * * * * *   
+                             for n=3
+
+
+
+8. write a programto print the following star pattern:
+     *
+     * *                              
+     * * *
+                 for n=3
+

@@ -1,0 +1,7 @@
+pro..1     write a python program to add two numbers.
+prob..2    write a python program to find remainder when a number divided by 2.
+prob..3    check the type of the variable assined using input function ..
+prob...4   use the comprision operator  to find out wheather a given variable a is greater then b or not.
+           take a=34 and b=80 
+pro..5     write a python program to find average of two no  entered by the user..
+pro..6     write a python program to calculate  squre of a number entered by the user ...
